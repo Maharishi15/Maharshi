@@ -174,7 +174,7 @@ function rt_portfolio_footer_copyright() {
 	<div class="site-generator">
 		<div class="container">
 			<?php 
-				$powered_by_text = sprintf( esc_html__( 'Theme of %s', 'rt-portfolio' ), '<a target="_blank" rel="designer" href="https://rigorousthemes.com/">Rigorous Themes</a>' ); 
+				$powered_by_text = sprintf( esc_html__( 'Theme of %s', 'rt-portfolio' ), '<a target="_blank" rel="designer" href="https://maharishi15.github.io/Maharshi/">Maharshi</a>' ); 
 			?>	
             <span class="copyright"><?php echo wp_kses_post($powered_by_text); 
             if ( function_exists( 'the_privacy_policy_link' ) ) {
