@@ -2161,14 +2161,14 @@ iframe {
     resize: none;
 }
 .page-content .search-form .search-submit {
-    background: #002535 url(/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png) no-repeat scroll center center;
+    background: #002535 url(http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png) no-repeat scroll center center;
     background-size: 21px;
     font-weight: 400;
     margin: 0;
     text-transform: uppercase;
 }
 .page-content .search-form .search-submit:hover {
-    background: #303E4B url(/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png) no-repeat scroll center center;
+    background: #303E4B url(http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png) no-repeat scroll center center;
     background-size: 21px;
 }
 
@@ -2687,7 +2687,7 @@ div.bbp-submit-wrapper button {
 }
 
 .widget_search .search-submit {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center / 30px auto;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center / 30px auto;
     border-radius: 0;
     border: medium none;
     box-shadow: inherit;
@@ -2702,7 +2702,7 @@ div.bbp-submit-wrapper button {
 }
 
 .widget_search .search-submit:hover {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center / 30px auto;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center / 30px auto;
     ;
 }
 
@@ -3744,11 +3744,11 @@ div.bbp-submit-wrapper button {
 }
 
 .about-us-section::before {
-     background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/about-us-bg.jpg") no-repeat scroll center center;
+     background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/about-us-bg.jpg") no-repeat scroll center center;
 }
 
 .home-section.service-section::before {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/service-bg.jpg") no-repeat scroll center center;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/service-bg.jpg") no-repeat scroll center center;
 }
 
 #myfullpage>.section:after {
@@ -3899,7 +3899,7 @@ div.bbp-submit-wrapper button {
 }
 
 .portfolio-section::before {
-     background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/portfolio-bg.jpg") no-repeat scroll center center;
+     background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/portfolio-bg.jpg") no-repeat scroll center center;
 }
 
 #myfullpage>.section.portfolio-section::after {
@@ -4138,7 +4138,7 @@ div.bbp-submit-wrapper button {
 }
 
 .testimonial-section::before {
-     background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/testimonial-bg.jpg") no-repeat scroll center center;
+     background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/testimonial-bg.jpg") no-repeat scroll center center;
 }
 
 .testimonial-wrapper {
@@ -4306,7 +4306,7 @@ div.bbp-submit-wrapper button {
 }
 
 .team-section::before {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/team-bg.jpg") no-repeat scroll center center;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/team-bg.jpg") no-repeat scroll center center;
 }
 
 .team-item-wrapper {
@@ -4398,7 +4398,7 @@ div.bbp-submit-wrapper button {
 /*   blog section styling from here   */
 
 .blog-section::before {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/blog-bg.jpg") no-repeat scroll center center;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/blog-bg.jpg") no-repeat scroll center center;
 }
 
 #myfullpage>.section.blog-section::after {
@@ -4473,7 +4473,7 @@ div.bbp-submit-wrapper button {
 /*   contact section styling from here   */
 
 .contact-section::before {
-    background: url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/contact-bg.jpg") no-repeat scroll center center;
+    background: url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/contact-bg.jpg") no-repeat scroll center center;
 }
 
 #myfullpage>.section.contact-section::after {
@@ -4587,7 +4587,7 @@ div.bbp-submit-wrapper button {
 
 .search-form input[type="submit"] {
     -webkit-transition: all 0s ease 0s;
-    background: #1D2730 url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center;
+    background: #1D2730 url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center;
     background-size: 21px;
     margin: 0;
     padding: 0;
@@ -4599,7 +4599,7 @@ div.bbp-submit-wrapper button {
 }
 
 .search-form input[type="submit"]:hover {
-    background: #0D74BA url("/https://maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center;
+    background: #0D74BA url("http://localhost/https:/maharishi15.github.io/Maharshi/wp-content/themes/rt-portfolio/assets/img/search-icon.png") no-repeat scroll center center;
     background-size: 21px;
 }
 
