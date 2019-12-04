@@ -1,0 +1,29 @@
+
+---Downloaded files---
+The import files for: RT Portfolio were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.rigorousthemes.com/rt-portfolio
+Data file = /home/rigorous/public_html/rigorousthemes.com/demo/rt-portfolio/wp-content/themes/rt-portfolio/inc/demo-import/rtportfolio.wordpress.xml
+Widget file = /home/rigorous/public_html/rigorousthemes.com/demo/rt-portfolio/wp-content/themes/rt-portfolio/inc/demo-import/rt-portfolio-widgets.wie
+Customizer file = /home/rigorous/public_html/rigorousthemes.com/demo/rt-portfolio/wp-content/themes/rt-portfolio/inc/demo-import/rt-portfolio-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
